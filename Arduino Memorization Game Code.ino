@@ -1,5 +1,5 @@
 /*
- * Adam Ali
+ * Adam
  * 12.7.2016
  * CSIS 10C final project
  */
