@@ -1,8 +1,4 @@
-/*
- * Adam
- * 12.7.2016
- * CSIS 10C final project
- */
+
 #include <LiquidCrystal.h>
 
 #define BUTTON_PIN6 6
